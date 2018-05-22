@@ -1,10 +1,16 @@
-# C++ Snippets 代码片段
+# Snippets 代码片段
+
+*This repository is under construction. More to come soon ...*
+
+*本代码仓库正在建设中，即将上传大量代码……*
+
 
 ## Contents 目录
 
-- [Monte Carlo](#user-content-monte-carlo-模拟)
-
-
+- [Monte Carlo 模拟](#user-content-monte-carlo-模拟)
+- [LeetCode 题库](#user-content-leetcode-题库)
+- [Algorithms 算法](#user-content-algorithms-算法)
+- [Console Programs 控制台程序](#user-content-console-programs-控制台程序)
 
 ## Monte Carlo 模拟
 
