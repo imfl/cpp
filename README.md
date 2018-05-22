@@ -1,5 +1,11 @@
 # C++ Snippets 代码片段
 
+## Contents 目录
+
+- [Monte Carlo](#user-content-monte-carlo)
+
+
+
 ## Monte Carlo 模拟
 
 To price various exotic options 用于给各类奇异期权定价
