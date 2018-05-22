@@ -4,7 +4,7 @@
 
 Date Calculator 日期计算器
 
-![dcal](screenshots\dcal.png)
+![dcal](screenshots/dcal.png)
 
 Click [here](console/dcal.cpp)
 
