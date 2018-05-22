@@ -2,7 +2,7 @@
 
 ## Contents 目录
 
-- [Monte Carlo](#user-content-monte-carlo)
+- [Monte Carlo](#user-content-monte-carlo-模拟)
 
 
 
